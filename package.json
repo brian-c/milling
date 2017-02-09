@@ -1,0 +1,7 @@
+{
+  "name": "milling",
+  "version": "0.0.1",
+  "dependencies": {
+    "polygon-offset": "^0.3.1"
+  }
+}
